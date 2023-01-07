@@ -7,3 +7,7 @@ func Add() string {
 func Minus() string {
 	return "---"
 }
+
+func Name() string {
+	return "Go Lang"
+}
