@@ -11,3 +11,7 @@ func Minus() string {
 func Name() string {
 	return "Go Lang"
 }
+
+func ProgramName() string {
+	return "Math lib"
+}
